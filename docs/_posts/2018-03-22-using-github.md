@@ -2,7 +2,6 @@
 layout: post
 title: "Using GitHub.com"
 description: "How the 10th ACB's J-6 Shop uses GitHub.com to achieve better development"
-keywords: ""
 ---
 
 **This page is marked to be updated,** for now we'll just outline a typical workflow for an update to a repo:
